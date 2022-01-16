@@ -4,6 +4,8 @@ A fun pricing page with Gifs 🎞🖼.
 
 Made with typescript Vue and tailwindcss.
 
+[Live preview](https://adoring-ride-4c86be.netlify.app/)
+
 ## Project setup 🚀
 
 ```
